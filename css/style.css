@@ -1,0 +1,9 @@
+body{
+    background-color: chocolate;
+}
+.rectangle{
+    width: 200px;
+    height: 150px;
+    border: 2px solid black;
+    display: inline-block;
+}
